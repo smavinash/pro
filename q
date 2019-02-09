@@ -1,11 +1,8 @@
-dsfmsdmmdsmcs
-dsv
-s
-v
-sv
-s
-vs
-v
-sv
-s
-v
+public static void main (string args[])
+
+{
+system.out.println("hello world");
+}
+
+
+
